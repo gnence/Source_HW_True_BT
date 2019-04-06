@@ -8,8 +8,8 @@
 const char* ssid     = "USS";           //Enter your SSID
 const char* password = "maybesleep";    //Enter your password
 
-const String host = "61.90.233.80";     //Enter your host name
-const int httpPort = 2240;              //Enter your port number
+const String host = "host";     //Enter your host name
+const int httpPort = 0000;              //Enter your port number
 String action = "maybesleep/Auth.php?data={var}";
 
 const byte Rows= 4;                     //number of rows on the keypad i.e. 4
